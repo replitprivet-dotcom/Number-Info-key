@@ -1,7 +1,6 @@
 {
   "keys": [
-    "jwjs82n",
-    "abc123",
+    "R-BOTS72EJ",
     "rocky2026"
   ]
 }
